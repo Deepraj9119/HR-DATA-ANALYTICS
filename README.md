@@ -84,7 +84,7 @@ This dashboard can be further improved by implementing the following:
 ## 👤 Author
 
 **Deepraj Srivastav**  
-🔗 LinkedIN: [Janhvai PS] (https://www.linkedin.com/in/deeprajsrivastav/) <br>
+🔗 LinkedIN: (https://www.linkedin.com/in/deeprajsrivastav/) <br>
 💻 Passionate about turning data into decisions with the power of analytics, visualization, and storytelling.
 
 ---
